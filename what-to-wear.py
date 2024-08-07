@@ -17,7 +17,7 @@ TEMPERATURE_RANGES = {
 }
 RAIN_CATEGORY = 'rain'
 WINDY_CATEGORY = 'windy'
-CLOTHES_CSV = 'https://raw.githubusercontent.com/username/repo/main/clothes_outerwear.csv'
+CLOTHES_CSV = 'clothes_outerwear.csv'
 WEATHER_CSV = 'weather_data.csv'
 USER_AGENT = 'clothes-suggesting-app/1.0'
 
