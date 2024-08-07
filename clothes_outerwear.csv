@@ -1,0 +1,42 @@
+Type,Item,Category
+top,Cotton T-shirt,hot
+top,Lightweight Blouse,hot
+top,Sleeveless Shirt,hot
+top,Short Sleeve Dress,hot
+top,Light Sweater,warm
+top,Long Sleeve T-shirt,warm
+top,Button-Up Shirt,warm
+top,Flowy Top,cool
+top,Knitted Sweater,cool
+top,Turtleneck,cold
+top,Layered Tank,very_cold
+top,Wool Sweater,very_cold
+top,Heavy Knit Top,freezing
+top,Thermal Top,freezing
+bottom,Denim Shorts,hot
+bottom,Cotton Skirt,hot
+bottom,Lightweight Trousers,hot
+bottom,Chino Shorts,warm
+bottom,Culottes,warm
+bottom,Capri Pants,warm
+bottom,Jeans,cool
+bottom,Twill Pants,cool
+bottom,Trousers,cold
+bottom,Thick Tights,very_cold
+bottom,Wool Trousers,very_cold
+bottom,Heavy Leggings,freezing
+bottom,Thermal Leggings,freezing
+outerwear,Light Rain Jacket,hot
+outerwear,Denim Jacket,warm
+outerwear,Casual Blazer,warm
+outerwear,Wool Coat,cool
+outerwear,Windbreaker,cool
+outerwear,Heavy Parka,cold
+outerwear,Insulated Coat,very_cold
+outerwear,Down Jacket,freezing
+accessory,Thin Cotton Gloves,cold
+accessory,Thin Cotton Scarf,cold
+accessory,Thin Wool Gloves,very_cold
+accessory,Thin Wool Scarf,very_cold
+accessory,Thick Wool Gloves,freezing
+accessory,Thick Wool Scarf,freezing
